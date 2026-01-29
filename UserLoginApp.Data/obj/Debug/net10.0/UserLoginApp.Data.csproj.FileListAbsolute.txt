@@ -1,0 +1,12 @@
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\bin\Debug\net10.0\UserLoginApp.Data.deps.json
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\bin\Debug\net10.0\UserLoginApp.Data.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\bin\Debug\net10.0\UserLoginApp.Data.pdb
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.csproj.AssemblyReference.cache
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.AssemblyInfoInputs.cache
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.AssemblyInfo.cs
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\refint\UserLoginApp.Data.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\UserLoginApp.Data.pdb
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Data\obj\Debug\net10.0\ref\UserLoginApp.Data.dll

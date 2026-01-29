@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "_Layout";
+}
+@using UserLoginApp.Data.Entities
+@model List<Usuario>
+
+<button class="btn btn-primary mb-3" id="btnNuevo">
+    Nuevo Usuario
+</button>
+
+<div id="modalContainer"></div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Usuario</th>
+            <th>Correo</th>
+            <th>Estatus</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.NombreCompleto</td>
+                <td>@u.NombreUsuario</td>
+                <td>@u.Correo</td>
+                <td>@(u.Estatus ? "Activo" : "Inactivo")</td>
+                <td>
+                    <button class="btn btn-sm btn-primary btnEditar" data-id="@u.Id">Editar</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script src="~/js/UsuarioModal.js"></script>
+}
+
+
+

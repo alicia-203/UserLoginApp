@@ -1,0 +1,4 @@
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Presentation\wwwroot\Js\UsuarioModal.js
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Presentation\wwwroot\Css\Site.css
+wwwroot\Css\Site.css
+wwwroot\Js\UsuarioModal.js

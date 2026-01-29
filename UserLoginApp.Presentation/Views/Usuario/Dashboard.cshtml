@@ -1,0 +1,25 @@
+﻿@using UserLoginApp.Models
+@model DashboardDto
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1 class="section-title mb-4">Dashboard</h1>
+
+<div class="dashboard-cards">
+    <div class="card">
+        <h4>Total Usuarios</h4>
+        <p class="metric">@Model.TotalUsuarios</p>
+    </div>
+
+    <div class="card">
+        <h4>Usuarios Activos</h4>
+        <p class="metric">@Model.UsuariosActivos</p>
+    </div>
+
+    <div class="card">
+        <h4>Usuarios Inactivos</h4>
+        <p class="metric">@Model.UsuariosInactivos</p>
+    </div>
+</div>

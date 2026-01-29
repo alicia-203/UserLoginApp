@@ -1,0 +1,15 @@
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\bin\Debug\net10.0\UserLoginApp.Business.deps.json
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\bin\Debug\net10.0\UserLoginApp.Business.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\bin\Debug\net10.0\UserLoginApp.Business.pdb
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\bin\Debug\net10.0\UserLoginApp.Data.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\bin\Debug\net10.0\UserLoginApp.Data.pdb
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.csproj.AssemblyReference.cache
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.AssemblyInfoInputs.cache
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.AssemblyInfo.cs
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLogi.12455CE3.Up2Date
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\refint\UserLoginApp.Business.dll
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\UserLoginApp.Business.pdb
+C:\Users\Alicia\source\repos\UserLoginApp\UserLoginApp.Business\obj\Debug\net10.0\ref\UserLoginApp.Business.dll

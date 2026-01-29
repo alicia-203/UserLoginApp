@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "UserLoginApp.Business/1.0.0": {
+        "dependencies": {
+          "UserLoginApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "UserLoginApp.Business.dll": {}
+        }
+      },
+      "UserLoginApp.Data/1.0.0": {
+        "runtime": {
+          "UserLoginApp.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserLoginApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserLoginApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

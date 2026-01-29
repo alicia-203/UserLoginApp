@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\wwwroot\\js\\usuariomodal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\wwwroot\\js\\usuariomodal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\views\\usuario\\_usuariomodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\views\\usuario\\_usuariomodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\views\\usuario\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\views\\usuario\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\models\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\models\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08ACF903-4F6F-C322-99C6-EA04E70FDACF}|UserLoginApp.Business\\UserLoginApp.Business.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.business\\services\\seguridadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08ACF903-4F6F-C322-99C6-EA04E70FDACF}|UserLoginApp.Business\\UserLoginApp.Business.csproj|solutionrelative:userloginapp.business\\services\\seguridadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\userloginapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\userloginapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08ACF903-4F6F-C322-99C6-EA04E70FDACF}|UserLoginApp.Business\\UserLoginApp.Business.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.business\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08ACF903-4F6F-C322-99C6-EA04E70FDACF}|UserLoginApp.Business\\UserLoginApp.Business.csproj|solutionrelative:userloginapp.business\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA83830-65DC-1EAE-DFFA-7364ED5F496A}|UserLoginApp.Data\\UserLoginApp.Data.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.data\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA83830-65DC-1EAE-DFFA-7364ED5F496A}|UserLoginApp.Data\\UserLoginApp.Data.csproj|solutionrelative:userloginapp.data\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA83830-65DC-1EAE-DFFA-7364ED5F496A}|UserLoginApp.Data\\UserLoginApp.Data.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA83830-65DC-1EAE-DFFA-7364ED5F496A}|UserLoginApp.Data\\UserLoginApp.Data.csproj|solutionrelative:userloginapp.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|c:\\users\\alicia\\source\\repos\\userloginapp\\userloginapp.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1958FA88-86F1-3DC6-75F0-8DEFE54C4461}|UserLoginApp.Presentation\\UserLoginApp.csproj|solutionrelative:userloginapp.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Models\\LoginDto.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:50:17.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:48:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Program.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:54:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T00:35:38.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Models\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Models\\DashboardDto.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Models\\DashboardDto.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Models\\DashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:48:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Views\\Usuario\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\Dashboard.cshtml",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Views\\Usuario\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T14:47:50.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioModal.js",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\wwwroot\\Js\\UsuarioModal.js",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\wwwroot\\Js\\UsuarioModal.js",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\wwwroot\\Js\\UsuarioModal.js",
+              "RelativeToolTip": "UserLoginApp.Presentation\\wwwroot\\Js\\UsuarioModal.js",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwFAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T23:01:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:08:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T19:16:18.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T14:46:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_UsuarioModal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\_UsuarioModal.cshtml",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Views\\Usuario\\_UsuarioModal.cshtml",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Views\\Usuario\\_UsuarioModal.cshtml",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Views\\Usuario\\_UsuarioModal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T19:32:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:51:46.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Models\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Models\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Models\\UsuarioDto.cs",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Models\\UsuarioDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:25:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\wwwroot\\Css\\Site.css",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\wwwroot\\Css\\Site.css",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\wwwroot\\Css\\Site.css",
+              "RelativeToolTip": "UserLoginApp.Presentation\\wwwroot\\Css\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-29T00:33:12.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoginApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\UserLoginApp.csproj",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\UserLoginApp.csproj",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\UserLoginApp.csproj",
+              "RelativeToolTip": "UserLoginApp.Presentation\\UserLoginApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T22:59:10.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeguridadService.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Business\\Services\\SeguridadService.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Business\\Services\\SeguridadService.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Business\\Services\\SeguridadService.cs",
+              "RelativeToolTip": "UserLoginApp.Business\\Services\\SeguridadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:48:12.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Business\\Services\\HashService.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Business\\Services\\HashService.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Business\\Services\\HashService.cs",
+              "RelativeToolTip": "UserLoginApp.Business\\Services\\HashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:47:57.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserLoginApp.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T21:56:27.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Data\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Data\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Data\\Entities\\Usuario.cs",
+              "RelativeToolTip": "UserLoginApp.Data\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:27:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "UserLoginApp.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Presentation\\appsettings.json",
+              "RelativeToolTip": "UserLoginApp.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T03:55:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UserLoginApp.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Alicia\\source\\repos\\UserLoginApp\\UserLoginApp.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "UserLoginApp.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:52:09.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

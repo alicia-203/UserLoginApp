@@ -1,0 +1,57 @@
+﻿@using UserLoginApp.Models
+@model UsuarioDto
+
+<div class="modal fade" id="usuarioModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form id="formUsuario" action="/Usuario/Crear" method="post">
+                @Html.AntiForgeryToken()
+                <div class="modal-header">
+                    <h5 class="modal-title">Nuevo Usuario</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+
+                    <div id="modalMessage"></div>
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
+
+                    <div class="mb-2">
+                        <label>Nombre Completo</label>
+                        <input name="NombreCompleto" asp-for="NombreCompleto" class="form-control" />
+                        <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+                    </div>
+                    <div class="mb-2">
+                        <label>Nombre Usuario</label>
+                        <input name="NombreUsuario" asp-for="NombreUsuario" class="form-control" />
+                        <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+                    </div>
+                    <div class="mb-2">
+                        <label>Password</label>
+                        <input name="Password" asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="mb-2">
+                        <label>Correo</label>
+                        <input name="Correo" asp-for="Correo" class="form-control" />
+                        <span asp-validation-for="Correo" class="text-danger"></span>
+                    </div>
+                    <div class="mb-2">
+                        <label>Estatus</label>
+                        <select name="Estatus" asp-for="Estatus" class="form-control">
+                            <option value="true">Activo</option>
+                            <option value="false">Inactivo</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" id="btnGuardar" value="Guardar" class="btn btn-success">Guardar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+

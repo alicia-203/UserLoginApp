@@ -1,0 +1,90 @@
+﻿:root {
+    --color-primary: #ffe600;
+    --color-secondary: #17171c;
+    --color-text: #2e2e38;
+    --color-text-muted: #73738c;
+    --color-bg: #ffffff;
+    --color-border: #e6e6e6;
+}
+
+body {
+    font-family: "Inter", Arial, sans-serif;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 700;
+}
+
+p {
+    color: var(--color-text-muted);
+    line-height: 1.5;
+}
+
+/* Botones corporativos */
+.btn-primary {
+    background-color: var(--color-primary);
+    border: none;
+    color: #000;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+    .btn-primary:hover {
+        background-color: #e6d800;
+    }
+
+/* Tarjetas */
+.card {
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Modal estilo corporativo */
+.modal-content {
+    border-radius: 8px;
+    border: none;
+    padding: 1rem;
+}
+
+.modal-header {
+    background-color: var(--color-secondary);
+    color: #fff;
+    font-weight: 600;
+}
+
+.modal-footer {
+    border-top: 1px solid var(--color-border);
+}
+
+/* Dashboard / tarjetas métricas */
+.dashboard-cards {
+    display: flex;
+    gap: 1rem;
+}
+
+.metric {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--color-secondary);
+}
+
+/* Navbar */
+.navbar-custom {
+    background-color: var(--color-secondary);
+    padding: 1rem 2rem;
+    color: #fff;
+}
+
+    .navbar-custom a {
+        color: #fff;
+        margin-right: 1rem;
+        font-weight: 500;
+    }
